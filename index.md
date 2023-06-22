@@ -2,13 +2,14 @@
 This Emotional Responsive Robot reacts to movement and can have different emotions. This Robot is based off the Disney movie WALL-E which includes a emotionally responsive Robot as well.
 
 | Eric W. | Vacaville Christian School | Mechanical Engineering | Incoming Junior |
-|:--:|:--:|:--:|:--:|
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+
+<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
+
   
-<!--- # Final Milestone
+# Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -33,7 +34,7 @@ For your second milestone, explain what you've worked on since your previous mil
 # First Milestone
 My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via bluetooth to control it's emotions. In my project there are several components that are used to imitate it's reactions such as servos, supersonic sensors, and bluetooth module. It's servos can be used for movement, supersonic sensors to detect sudden movements, and bluetooth module to connect your phone to control it's emotions. Challenges I faced during this project is connecting my Adafruit wave shield to my Arduino Uno and my wiring situation. My Plan to complete my project is to connect everything onto my breadboard and then start programming my robot.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -76,3 +77,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
 To watch the BSE tutorial on how to create a portfolio, click here.
+-->
