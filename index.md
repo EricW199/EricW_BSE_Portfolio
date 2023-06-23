@@ -31,13 +31,18 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
+# First Milestone
+My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via bluetooth to control it's emotions. In my project there are several components that are used to imitate it's reactions such as servos, supersonic sensors, and bluetooth module. It's servos can be used for movement, supersonic sensors to detect sudden movements, and bluetooth module to connect your phone to control it's emotions. Challenges I faced during this project is connecting my Adafruit wave shield to my Arduino Uno and my wiring situation. My Plan to complete my project is to connect everything onto my breadboard and then start programming my robot.
+
 # Starter Project
-My starter project is the digital clock. It's a digital clock that can display time, day, week, month, year, and temperature. This digital clock consists of many components such as thermistors and buttons. Thermistors are used to detect the temperature, and the buttons are used to switch between the modes to display day or temperature. My biggest challenge while doing this starter project was searching up what each component looks like since I had no idea what they looked like. My next project is going to be the emotional responsive robot that reacts to motion and can be controlled via bluetooth. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YXdgLMgcYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# First Milestone
-My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via bluetooth to control it's emotions. In my project there are several components that are used to imitate it's reactions such as servos, supersonic sensors, and bluetooth module. It's servos can be used for movement, supersonic sensors to detect sudden movements, and bluetooth module to connect your phone to control it's emotions. Challenges I faced during this project is connecting my Adafruit wave shield to my Arduino Uno and my wiring situation. My Plan to complete my project is to connect everything onto my breadboard and then start programming my robot.
+My starter project is the digital clock. It's a digital clock that can display time, day, week, month, year, and temperature. This digital clock consists of many components such as thermistors and buttons. Thermistors are used to detect the temperature, and the buttons are used to switch between the modes to display day or temperature. My biggest challenge while doing this starter project was searching up what each component looks like since I had no idea what they looked like. My next project is going to be the emotional responsive robot that reacts to motion and can be controlled via bluetooth. 
+
+
+
+
 
 <!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
