@@ -1,5 +1,5 @@
 # Emotional Responsive Robot
-This Emotional Responsive Robot reacts to movement and can have different emotions. This Robot is based off the Disney movie WALL-E which includes a emotionally responsive Robot as well.
+My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via bluetooth to control it's emotions. In my project there are several components that are used to imitate it's reactions such as servos, supersonic sensors, and bluetooth module. It's servos can be used for movement, supersonic sensors to detect sudden movements, and bluetooth module to connect your phone to control it's emotions.
 
 | Eric W. | Vacaville Christian School | Mechanical Engineering | Incoming Junior |
 
@@ -32,7 +32,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 # First Milestone
-My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via bluetooth to control it's emotions. In my project there are several components that are used to imitate it's reactions such as servos, supersonic sensors, and bluetooth module. It's servos can be used for movement, supersonic sensors to detect sudden movements, and bluetooth module to connect your phone to control it's emotions. Challenges I faced during this project is connecting my Adafruit wave shield to my Arduino Uno and my wiring situation. My Plan to complete my project is to connect everything onto my breadboard and then start programming my robot.
+During my first milestone I had to solder components onto my waveshield and wire LED matrixes, LCD displays, and ultrasonic sensors onto my waveshield. My ultrasonic sensors can be used to track distance using high frequencies and recieving those frequencies, tracking how long it took to recieve them to track distance. My LCD display shows the distance captured from the ultrasonic sensor. My LED matrixes are used to display as eyes for the robot. My biggest challenges was I had many ineffective wires on connected to my components and had to rewire most of them, and My Arduino Uno wasn't detecting my wave shield and had to resolder my wave shield to have it connect. For my next milestone I plan to create an app to control the head movements and emotions of the robot and attach servos to control it's eyebrow movement, head movements, and eye expressions.
 
 # Starter Project
 
