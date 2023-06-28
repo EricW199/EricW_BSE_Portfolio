@@ -78,47 +78,27 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Uno | programmable microcontroller board | $28.50 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | Adafruit wave shield | adding audio | $26.82 | <a href="https://www.amazon.com/Adafruit-Wave-Shield-Arduino-Kit/dp/B00IQXZN9Q/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 2x 8x8 LED Matrixes | display as eyes | $7.99 | <a href="https://www.amazon.com/DIYables-Display-Arduino-ESP8266-Raspberry/dp/B0BXKM66XX/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 16x2 LCD Character Display w/ I2C backpack | display messages | $8.99 | <a href="https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B071Y6JX3H/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 2x MG995 Servo Motor | pan and tilt head | $18.99 | <a href="https://www.amazon.com/180%C2%B0High-Torque-Helicopter-Airplane-Futaba/dp/B07PFD6H31/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | Pan Tilt Servo Brackets | making multi axis joints | $6.43 | <a href="https://www.amazon.com/Bracket-Sensor-Multifunction-Bearing-Screws/dp/B0B3Y7ZXZD/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | HC-SR04 Ultrasonic Sensor | Track distance | $1.80 | <a href="https://www.amazon.com/Organizer-Ultrasonic-Distance-MEGA2560-ElecRight/dp/B07RGB4W8V/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 2 Watt 8 Ohm Small Speaker | Output for audio | $3.94 | <a href="https://www.amazon.com/Gikfun-Speaker-Diameter-Arduino-AE1054/dp/B01EJI8UWI/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 4 AA Battery Holder with Vdd and Gnd Wires | power source | $3.24 | <a href="https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07T7MTRZX/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 2x SG90 9G Micro Servos | move eyebrows | $7.29 | <a href="https://www.amazon.com/Sipytoph-Helicopter-Airplane-Walking-Control/dp/B09185SC1W/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 40p 200mm Male-to-Female Dupont Cables | interconnect components | $3.25 | <a href="https://www.amazon.com/GenBasic-Solderless-Dupont-Compatible-Breadboard-Prototyping/dp/B01L5UKAPI/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 40p 200mm Female-to_Male Jumper Cables | connect electric circuits to circuit boards | $12.49 | <a href="https://www.amazon.com/uxcell-Female-Jumper-2-54mm-Breadboard/dp/B07GN85RC2/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 8 GB microSDHC Class 4 Flash Memory Card SDC4/8GBET | insert into wave shield | $9.99   | <a href="https://www.amazon.com/Kingston-Class-MicroSDHC-Memory-Adapter/dp/9983039281/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | HC-05 Wireless Bluetooth RF Transceiver | connect android device | $10.39 | <a href="https://www.amazon.com/HiLetgo-Wireless-Bluetooth-Transceiver-Arduino/dp/B071YJG8DR/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | Breadboard with 2 Power Rails and 50p Jumper Cables | connecting components | $11.99 | <a href="https://www.amazon.com/HUAREW-Breadboard-Jumper-Include-Points/dp/B09VKYLYN7/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 4x 5/8 steel screw | securing components | $0.44 | <a href="https://www.amazon.com/Sentry-Supply-651-0358-8-Inch-Chrome/dp/B00DUQ9NK4/"> Link </a> |
-|:--:|:--:|:--:|:--:|  
 | 8x 4-40x3/4 steel screw | securing components | $0.56 | <a href="https://www.amazon.com/Phillips-Machine-Screws-Stainless-Thread/dp/B01HQ6UP32/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 12x 4-40x1/2 steel screw | securing components | $0.27 | <a href="https://www.amazon.com/2500pcs-4-40x1-Socket-Button-Stainless/dp/B06XF1W9TQ/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 20x 4-40 steel nut | securing components | $0.40 | <a href="https://www.amazon.com/Steel-Hex-4-40-Threads-Pack/dp/B000N2YSU8/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 4x 6-32x1/2 oval | securing components | $0.29 | <a href="https://www.amazon.com/Prime-Line-Products-MP9191-Construction-Slotted/dp/B01MA6EMXH/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | 4x 6-32 nut | What the item is used for | $0.64 | <a href="https://www.amazon.com/Instockbolts-Nylon-Insert-Stainless-Steel/dp/B09V4T41WL/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+
 <!---
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
