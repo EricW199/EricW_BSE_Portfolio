@@ -1,8 +1,10 @@
 # Emotional Responsive Robot
-My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via Bluetooth to control its emotions. In my project, there are several components that are used to imitate its reactions such as servos, supersonic sensors, and Bluetooth module. Its servos can be used for movement, supersonic sensors to detect sudden movements, and a bluetooth module to connect your phone to control its emotions.
+My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via Bluetooth to control its emotions. In my project, there are several components that are used to imitate its reactions such as servos, supersonic sensors, and Bluetooth module. Its servos can be used for movement, supersonic sensors to detect sudden movements, and a Bluetooth module to connect your phone to control its emotions.
 
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
 | Eric W. | Vacaville Christian School | Mechanical Engineering | Incoming Junior |
-|::|:--:|:--:|
+
 
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
