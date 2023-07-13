@@ -9,7 +9,7 @@ My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudd
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](IMG_7265.jpg)
 
   
 # Final Milestone
@@ -23,6 +23,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="(https://www.youtube.com/watch?v=0YXdgLMgcYM&ab_channel=BlueStampEng)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
+![Headstone Image](IMG_7265.jpg)
 
 # Final Milestone
 For my final milestone, I attached 2 servos to control the robot's head movement, so the head moves left, right, up, and down. This milestone was mainly assembly of the robot so screwing all my 3d printed parts and components into the main body of the robot. Its head can be controlled by the app that I made in MIT App Inventor and if the ultrasonic sensor detects a nearby object it gets surprised which freaks out and its head movement becomes faster and more random. My biggest challenge with this whole project was finding errors in my code and how to fix them, like why was my head not moving. Sometimes I needed to test if it was a software or hardware problem. My biggest challenge was my eyes as I was stumped on them for about 2 days and I was too stubborn to ask for help. During my time at BSE, I learned that things need to be achieved yourself, you can't always expect help from peers. 
@@ -352,6 +353,7 @@ void loop() {
 }
 
 ```
+</details>
 <!--- 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
