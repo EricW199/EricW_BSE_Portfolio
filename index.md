@@ -1,5 +1,5 @@
 # Emotional Responsive Robot
-My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via Bluetooth to control its emotions. In my project, there are several components that are used to imitate its reactions such as servos, supersonic sensors, and Bluetooth module. Its servos can be used for movement, supersonic sensors to detect sudden movements, and a Bluetooth module to connect your phone to control its emotions.
+My Project is the Emotionally Responsive Robot. It's a Robot that reacts to sudden movements and can be controlled via Bluetooth to control its emotions. In my project, there are several components that are used to imitate its reactions such as servos, ultrasonic sensors, and Bluetooth module. Its servos can be used for movement, ultrasonic sensors to detect sudden movements, and a Bluetooth module to connect your phone to control its emotions.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -22,9 +22,12 @@ For your final milestone, explain the outcome of your project. Key details to in
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="(https://www.youtube.com/watch?v=0YXdgLMgcYM&ab_channel=BlueStampEng)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+-->
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sZYrgeUFZfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--- For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
@@ -34,6 +37,8 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
+In this milestone, I coded my LED matrices and eyebrow servos to react to different emotions transmitted by my Bluetooth module. To transmit messages to my Arduino I installed this app that I created on MIT App Inventor that sends various bytes that communicates with the Arduino that I want this emotion to display. The robot can display happiness, sadness, anger, surprise, love, and neutrality. However, surprise isn't an emotion controlled by the app but by the ultrasonic sensor, when it senses that an obstacle is nearby the robot starts moving rapidly as if it was in a panic to show this surprise emotion. My biggest challenge with this milestone is trying to get my LED matrices to display different eyes like the left eye is different than the right eye. Also, my Android device wouldn't connect to the Bluetooth module, to fix this you need to change the app permissions to access nearby devices so that your app gains access to the Bluetooth module. There were many problems with my code like some brackets in the code weren't matched with the correct line of code. My plans for the next milestone are mainly the assembly of the robot, connecting my pan and tilt servos to control the robot's head movement, and coding my app to also control head movement. 
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VuyLpELa1uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
